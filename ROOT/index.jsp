@@ -321,7 +321,7 @@ response.setCharacterEncoding("UTF-8");
         <div class="features">
             <div class="feature">
                 <div class="feature-icon">BOARD</div>
-                <div class="feature-title">게시판 시스템</div>
+                <div class="feature-title">게시판 시스템 멋지다</div>
                 <div class="feature-desc">CRUD 작업을 통한 완전한 데이터베이스 연동 테스트</div>
             </div>
             <div class="feature">
@@ -356,6 +356,7 @@ response.setCharacterEncoding("UTF-8");
     </div>
 </body>
 </html>
+
 
 
 
